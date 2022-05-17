@@ -11,9 +11,9 @@
   <center>
     <h1>Crates Calculator</h1>
     <form action="" method="post">
-    	Total Items : <input type="text" name="totalitems" id="totalitems" placeholder="Eg. 16"><br/><br/>
-	    Large Crates : <input type="text" name="largecrate" id="largecrate" placeholder="Eg. 2"><br/><br/>
-	    Small Crates : <input type="text" name="smallcrate" id="smallcrate" placeholder="Eg. 10"><br/><br/>
+    	Total Items : <input type="number" name="totalitems" id="totalitems" placeholder="Eg. 16"><br/><br/>
+	    Large Crates : <input type="number" name="largecrate" id="largecrate" placeholder="Eg. 2"><br/><br/>
+	    Small Crates : <input type="number" name="smallcrate" id="smallcrate" placeholder="Eg. 10"><br/><br/>
 	    <input type="submit" name="submit" value="Submit">
     </form><br/><br/>
 
